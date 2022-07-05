@@ -1,0 +1,9 @@
+.resumeImage {
+    width: 75%;
+}
+
+.resumeText {
+    text-transform: uppercase;
+    padding-bottom: 0.75rem;
+    font-size: 1.2rem;
+}
